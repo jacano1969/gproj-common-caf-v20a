@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.2
+original_kwargs:
+  github: !!python/unicode 'PsychoGame'
+  name: !!python/unicode '/home/jasper/OptimusG/gproj-common-caf-v20a'
+project_type:
+- c
